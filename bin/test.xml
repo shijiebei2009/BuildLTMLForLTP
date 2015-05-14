@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml4nlp>
+	<note ne="y" parser="y" pos="y" sent="y" srl="y" word="y" />
+	<doc>
+		<para id="0">
+			<sent cont="我爱你中国！" id="0">
+				<word cont="我" id="0" ne="O" parent="1" pos="r" relate="SBV" />
+				<word cont="爱" id="1" ne="O" parent="-1" pos="v" relate="HED">
+					<arg beg="0" end="0" id="0" type="A0" />
+					<arg beg="2" end="3" id="1" type="A1" />
+				</word>
+				<word cont="你" id="2" ne="O" parent="3" pos="r" relate="ATT" />
+				<word cont="中国" id="3" ne="S-Ns" parent="1" pos="ns" relate="VOB" />
+				<word cont="！" id="4" ne="O" parent="1" pos="wp" relate="WP" />
+			</sent>
+		</para>
+		<para id="1">
+			<sent cont="事件语料的建立对事件及其关系识别和推理有重要意义，因此针对该语料库的建立进行研究有一定的理论意义和应用价值。" id="0">
+				<word cont="事件" id="0" ne="O" parent="1" pos="n" relate="ATT" />
+				<word cont="语料" id="1" ne="O" parent="3" pos="n" relate="ATT" />
+				<word cont="的" id="2" ne="O" parent="1" pos="u" relate="RAD" />
+				<word cont="建立" id="3" ne="O" parent="-1" pos="v" relate="HED">
+					<arg beg="4" end="13" id="0" type="A1" />
+				</word>
+				<word cont="对" id="4" ne="O" parent="11" pos="p" relate="ADV" />
+				<word cont="事件" id="5" ne="O" parent="8" pos="n" relate="SBV" />
+				<word cont="及其" id="6" ne="O" parent="7" pos="c" relate="LAD" />
+				<word cont="关系" id="7" ne="O" parent="5" pos="n" relate="COO" />
+				<word cont="识别" id="8" ne="O" parent="4" pos="v" relate="POB">
+					<arg beg="5" end="7" id="0" type="A0" />
+				</word>
+				<word cont="和" id="9" ne="O" parent="10" pos="c" relate="LAD" />
+				<word cont="推理" id="10" ne="O" parent="8" pos="v" relate="COO" />
+				<word cont="有" id="11" ne="O" parent="3" pos="v" relate="VOB">
+					<arg beg="12" end="13" id="0" type="A1" />
+				</word>
+				<word cont="重要" id="12" ne="O" parent="13" pos="a" relate="ATT" />
+				<word cont="意义" id="13" ne="O" parent="11" pos="n" relate="VOB" />
+				<word cont="，" id="14" ne="O" parent="3" pos="wp" relate="WP" />
+				<word cont="因此" id="15" ne="O" parent="20" pos="c" relate="ADV" />
+				<word cont="针对" id="16" ne="O" parent="20" pos="p" relate="ADV" />
+				<word cont="该" id="17" ne="O" parent="18" pos="r" relate="ATT" />
+				<word cont="语料库" id="18" ne="O" parent="16" pos="n" relate="POB" />
+				<word cont="的" id="19" ne="O" parent="16" pos="u" relate="RAD" />
+				<word cont="建立" id="20" ne="O" parent="3" pos="v" relate="COO">
+					<arg beg="15" end="15" id="0" type="DIS" />
+					<arg beg="21" end="30" id="1" type="A1" />
+				</word>
+				<word cont="进行" id="21" ne="O" parent="30" pos="v" relate="ATT">
+					<arg beg="22" end="29" id="0" type="A1" />
+				</word>
+				<word cont="研究" id="22" ne="O" parent="21" pos="v" relate="VOB" />
+				<word cont="有" id="23" ne="O" parent="22" pos="v" relate="COO">
+					<arg beg="24" end="27" id="0" type="A1" />
+				</word>
+				<word cont="一定" id="24" ne="O" parent="27" pos="b" relate="ATT" />
+				<word cont="的" id="25" ne="O" parent="24" pos="u" relate="RAD" />
+				<word cont="理论" id="26" ne="O" parent="27" pos="n" relate="ATT" />
+				<word cont="意义" id="27" ne="O" parent="23" pos="n" relate="VOB" />
+				<word cont="和" id="28" ne="O" parent="29" pos="c" relate="LAD" />
+				<word cont="应用" id="29" ne="O" parent="23" pos="v" relate="COO" />
+				<word cont="价值" id="30" ne="O" parent="20" pos="n" relate="VOB" />
+				<word cont="。" id="31" ne="O" parent="3" pos="wp" relate="WP" />
+			</sent>
+		</para>
+	</doc>
+</xml4nlp>
