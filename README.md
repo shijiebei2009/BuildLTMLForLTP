@@ -3,15 +3,15 @@
 1. 本项目是对LTP4J项目的本地调用接口的封装，可以提供和LTP在线版调用接口一样的返回结果，即LTML。
 
 2. 开发环境(测试环境为Windows，不保证支持Unix/Linux环境)
-* Licence：Apache Licence Version2
-* Version：1.0.0
-* 项目编码设定：UTF-8
-* 开发工具：Eclipse 4.4 luna
-* 操作系统OS：Windows7 64bit
-* JDK version：Oracle JDK 1.8+ 64bit
-* LTP：version 3.2
-* LTP4J：Version 1.0
-* 单元测试：JUnit4.1.0
+	* Licence：Apache Licence Version2
+	* Version：1.0.0
+	* 项目编码设定：UTF-8
+	* 开发工具：Eclipse 4.4 luna
+	* 操作系统OS：Windows7 64bit
+	* JDK version：Oracle JDK 1.8+ 64bit
+	* LTP：version 3.2
+	* LTP4J：Version 1.0
+	* 单元测试：JUnit4.1.0
 
 3. 本项目开发及维护者：王旭(wangx89(at)126.com)
 * 开发时间：2015年5月
