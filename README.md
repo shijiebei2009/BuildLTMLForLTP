@@ -14,7 +14,7 @@
 	* 单元测试：JUnit4.1.0
 
 3. 本项目开发及维护者：王旭(wangx89(at)126.com)
-* 开发时间：2015年5月
+	* 开发时间：2015年5月
 
 4. 使用方式，克隆本项目到本地或者是Download ZIP均可，下载LTP的完整版Model，拷贝到ltp_data目录下，其中ltp_data是在项目根目录下所建的文件夹。[下载地址](http://pan.baidu.com/share/link?shareid=1988562907&uk=2738088569#path=%252Fltp-models)
 
